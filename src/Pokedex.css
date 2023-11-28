@@ -1,0 +1,6 @@
+.tiles {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightblue;
+    margin: 10px;
+}
